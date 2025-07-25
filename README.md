@@ -1,0 +1,1 @@
+This is a project for computer graphics course. A village of Chapai where there is Sona mosque frame, a school frame and a frame with mangu tree. And all the frame is included with night view so total 6 frame is there.And this project has done on codeblocks ide with glut
